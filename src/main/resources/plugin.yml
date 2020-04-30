@@ -1,0 +1,9 @@
+name: KeyEnderChest
+version: 1.15
+main: me.alexprogrammerde.KeyEnderChest.main
+description: Ender Chests are no longer bound to Players. They are bound to keys!
+website: alexprogrammerde.github.io
+author: AlexProgrammerDE
+commands:
+  key:
+    description: Gives you the Key to your Ender Chest.
